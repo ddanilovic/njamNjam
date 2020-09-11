@@ -53,7 +53,7 @@ Enjoy :)
 
 ## Contributors
 
-* **Dusan Danilovic** - *Initial work* - (dusandanilovic.com)
+* **Dusan Danilovic** - *Initial work* - (ddanilovic.github.io)
 
 
 ## License
